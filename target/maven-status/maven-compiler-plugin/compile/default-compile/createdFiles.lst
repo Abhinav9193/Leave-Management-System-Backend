@@ -1,0 +1,4 @@
+com\example\leavemanagement\controller\LeaveController.class
+com\example\leavemanagement\entity\Leave.class
+com\example\leavemanagement\LeaveManagementApplication.class
+com\example\leavemanagement\repository\LeaveRepository.class
